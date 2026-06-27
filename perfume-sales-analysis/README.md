@@ -11,7 +11,7 @@ The analysis follows a structured workflow including **data cleaning, data proce
 
 Below is a preview of the dashboard:
 
-![Report Preview](image/preview.png)
+![Report Preview](image/dashboard_preview.png)
 
 ## Steps Involved
 
