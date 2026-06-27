@@ -35,7 +35,7 @@ To prepare the dataset for analysis, several transformations were applied:
 ### 3. Data Visualization
 An interactive dashboard was developed in Power BI to analyze:
 - Sales distribution by perfume type
-- Revenue and volume by gender segment
+- Sales and units sold by gender segment
 - Brand performance comparison
 - Pricing patterns and sales behavior
 - Seller distribution by geographic location
@@ -43,11 +43,11 @@ An interactive dashboard was developed in Power BI to analyze:
 ## Key Insights
 
 ### 1. Product Performance
-- Eau de Toilette (EDT) shows the highest sales volume, especially in the Men’s segment
+- Eau de Toilette (EDT) shows the highest units sold, especially in the Men’s segment
 - Eau de Parfum (EDP) generates higher value per item due to higher pricing
 
 ### 2. Customer Segment
-- The Men’s segment generates the highest revenue and total units sold
+- The Men’s segment generates the highest sales and total units sold
 - The Women’s segment shows stronger preference for higher-priced EDP products
 
 ### 3. Pricing & Sales Behavior
@@ -67,7 +67,7 @@ An interactive dashboard was developed in Power BI to analyze:
 - Item location represents seller location, not customer demand, as products can be shipped globally
 
 ## Recommendations
-- **Prioritize Men’s EDT products**, as they deliver the strongest combination of sales volume and revenue.
+- **Prioritize Men’s EDT products**, as they deliver the strongest combination of units sold and sales.
 - **Leverage Women’s EDP products** to capture higher sales value per item despite lower sales volume.
 - **Focus on high-performing brands** such as **Calvin Klein and Versace**, which show consistent sales across segments.
 - **Price Range Optimization:** Focus inventory on the **$25–$35** range, as it is the busiest segment for driving mass sales and fast turnover.
