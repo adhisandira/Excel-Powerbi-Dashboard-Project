@@ -36,7 +36,7 @@ To prepare the dataset for analysis, several transformations were applied:
 An interactive dashboard was developed in Power BI to analyze:
 - Sales distribution by perfume type
 - Sales and units sold by gender segment
-- Brand performance comparison
+- Brand performance by units sold and total sales
 - Pricing patterns and sales behavior
 - Seller distribution by geographic location
 
@@ -56,7 +56,8 @@ An interactive dashboard was developed in Power BI to analyze:
 - Brand positioning and pricing have a greater impact on sales than stock quantity
 
 ### 4. Brand Performance
-- Sales are heavily driven by a few established brands, with Calvin Klein and Versace consistently generating the highest units sold across multiple segments
+- Calvin Klein records the highest units sold, while Versace generates the highest total sales due to its higher average selling price
+- Sales are concentrated among a small number of established brands, with Calvin Klein and Versace consistently leading overall brand performance
 - Some brands offer a wide product range but generate lower sales per item
 
 ### 5. Seller Distribution
